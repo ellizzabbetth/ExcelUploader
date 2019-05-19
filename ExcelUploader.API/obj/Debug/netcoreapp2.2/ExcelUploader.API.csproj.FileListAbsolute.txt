@@ -1,0 +1,14 @@
+C:\ReactApps\ExcelUploader\ExcelUploader.API\bin\Debug\netcoreapp2.2\ExcelUploader.API.deps.json
+C:\ReactApps\ExcelUploader\ExcelUploader.API\bin\Debug\netcoreapp2.2\ExcelUploader.API.runtimeconfig.json
+C:\ReactApps\ExcelUploader\ExcelUploader.API\bin\Debug\netcoreapp2.2\ExcelUploader.API.runtimeconfig.dev.json
+C:\ReactApps\ExcelUploader\ExcelUploader.API\bin\Debug\netcoreapp2.2\ExcelUploader.API.dll
+C:\ReactApps\ExcelUploader\ExcelUploader.API\bin\Debug\netcoreapp2.2\ExcelUploader.API.pdb
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.csprojAssemblyReference.cache
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.csproj.CoreCompileInputs.cache
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.RazorAssemblyInfo.cache
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.RazorAssemblyInfo.cs
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.AssemblyInfoInputs.cache
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.AssemblyInfo.cs
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.RazorTargetAssemblyInfo.cache
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.dll
+C:\ReactApps\ExcelUploader\ExcelUploader.API\obj\Debug\netcoreapp2.2\ExcelUploader.API.pdb
